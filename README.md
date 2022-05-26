@@ -1,4 +1,3 @@
-# ST3189_Coursework
 Machine Learning Dataset Analysis
 - This Machine Learning (ML) Dataset Analysis consists of 3 parts as follows:
 - Part 1: Use unsupervised learning techniques (PCA, Clustering) to analyze the European Working Conditions Survey (EWCS) 2016 dataset.
